@@ -20,6 +20,7 @@ target '$fname' do
   # Pods for $fname
   pod 'Firebase/Core'
   pod 'Firebase/Database'
+  pod 'Firebase/Auth'
  
 
 end
