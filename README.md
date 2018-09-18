@@ -14,3 +14,5 @@ Temp
 Auth add pod file
 
 FIRAPP.config
+
+Emable Email/pass signin
