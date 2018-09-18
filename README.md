@@ -9,3 +9,7 @@ Step 2
 sh Firebase-shell.sh
 
 
+
+Temp
+Auth add pod file
+
